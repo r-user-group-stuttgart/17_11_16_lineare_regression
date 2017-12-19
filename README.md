@@ -1,5 +1,7 @@
 # R User Group Treffen am 16.11.2017
 
+![](17_11_16_lineare_regression/learnr/images/lineareg.png)
+
 **Thema: Lineare Regression in R**
 
 von *Fabio Votta* und *Simon Roth*
