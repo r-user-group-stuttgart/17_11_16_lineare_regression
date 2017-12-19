@@ -6,7 +6,9 @@
 
 von *Fabio Votta* und *Simon Roth*
 
-Die Materialien zur heutigen Sitzung kannst du hier herunterladen. Gehe auf das File [rechtsklick] -> entpacken. Der Order beinhaltet:
+Lineare Regression ist das mit Abstand am häufigsten genutzte statistische Modell der empirischen Sozialforschung. In diesem Workshop lernt ihr die Grundkonzepte der linearen Regression, deren Anwendung sowie Interpretation und Visualisieriung. Alles in R!
+
+Die Materialien zur heutigen Sitzung könnt ihr hier herunterladen. Gehe auf das File [rechtsklick] -> entpacken. Der Order beinhaltet:
 
 1. `learnr` (zum intuitiven Lernen der Konzepte)
 2. Online Book zu Statistischer Modellierung (Zusammenfassung)
