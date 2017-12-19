@@ -4,8 +4,6 @@
 
 von *Fabio Votta* und *Simon Roth*
 
-[Zur Installation gehts hier entlang]().
-
 Die Materialien zur heutigen Sitzung kannst du hier herunterladen. Gehe auf das File [rechtsklick] -> entpacken. Der Order beinhaltet:
 
 1. `learnr` (zum intuitiven Lernen der Konzepte)
@@ -14,5 +12,5 @@ Die Materialien zur heutigen Sitzung kannst du hier herunterladen. Gehe auf das 
 
 Wie immer stellen wir auch ein Paar `learnr` Server Instanzen zur Verfügung.
 
-* [Instance 1]()
-* ...
+* [Instance 1](https://favstats.shinyapps.io/linear_model/)
+* [Instance 2](https://favstats.shinyapps.io/linear1/)
