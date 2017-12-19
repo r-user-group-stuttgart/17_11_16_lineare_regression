@@ -1,4 +1,4 @@
-# R Group Treffen am 16.11.2017
+# R User Group Treffen am 16.11.2017
 
 **Thema: Lineare Regression in R**
 
